@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  DependencyInjection
-//
-//  Created by Murathan karagöz on 1.09.2023.
-//
-
 import UIKit
 
 @main
